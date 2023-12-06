@@ -1,0 +1,16 @@
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Form1.resources
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.LibraryManagement.resources
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Member.resources
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Book.resources
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Librarian.resources
+C:\Users\pgong\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Library.resources
